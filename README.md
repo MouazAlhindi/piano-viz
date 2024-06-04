@@ -38,7 +38,8 @@ Note that if you choose to do 1, you will need to manually update the pi with a 
 3. run the project
 	1. open up a terminal
 	2. navigate to the root directory of the repo
-	3. create a venv (see development section for info on how to do this)
-	4. activate the venv
+	3. create a venv `python -m venv ./venv`
+	4. activate the venv `source ./venv/bin/activate`
 	5. install dependencies `pip install -r requirements.txt`
-	6. run the code `python main.py` 
+	6. run the code `python main.py`
+
