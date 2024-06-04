@@ -33,6 +33,7 @@ This project is designed to visualize midi input from a piano. There is no netwo
 2. Get the source code on the pi. This can be done in many ways. 
 	1. Copy it over onto a USB (no internet needed)
 	2. Clone the repo (internet required)
+
 Note that if you choose to do 1, you will need to manually update the pi with a USB everytime there are useful updates to the code. You could also just clone the repo and turn off your network interface.
 
 3. run the project
